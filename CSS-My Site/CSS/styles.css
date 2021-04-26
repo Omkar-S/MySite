@@ -81,6 +81,12 @@ a:hover{
     float: right;
     margin-left: 30px;
 }
+.mountain-image{
+    width: 50%;
+}
+.propic{
+    width: 10%;
+}
 .btn{
     background-color: #51c4d3;
     color: white;
