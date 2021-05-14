@@ -19,7 +19,7 @@
     box-shadow: 5px 6px 5px 3px rgba(87, 85, 85, 0.76);
 }
 .master-img{
-    margin-left: 15em;
+    margin-left: 35%;
 }
 h1{
     display: inline-block;
@@ -42,8 +42,8 @@ h1{
     width: 30%;
     box-shadow: 5px 6px 5px 3px rgba(87, 85, 85, 0.76);
     margin-top: 7em;
-    margin-left:11em;
-    display: block;
+   
+    
 }
 .proceed{
     background: grey;
@@ -58,4 +58,17 @@ a{
     letter-spacing: 5px;
     word-spacing: 5px;
     font-family: 'Girassol', cursive;
+}
+
+@media screen and (max-width:770px) {
+    .left-box,.right-box{
+        height: 80vh;
+        width: 100%;
+    }
+}
+@media screen and (max-width:450px) {
+    .left-box,.right-box{
+        height: 80vh;
+        width: 100%;
+    }
 }
