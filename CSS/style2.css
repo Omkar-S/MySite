@@ -63,13 +63,13 @@ a{
 
 @media screen and (max-width:770px) {
     .left-box,.right-box{
-        height: 80vh;
+        height: 40vh;
         width: 100%;
     }
 }
 @media screen and (max-width:450px) {
     .left-box,.right-box{
-        height: 80vh;
+        height: 40vh;
         width: 100%;
     }
 }
