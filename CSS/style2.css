@@ -1,0 +1,61 @@
+.container{
+    height: 80vh;
+    margin-top: 3em;
+}
+.left-box,.right-box{
+    height: 80vh;
+    width: 50%;
+    background: hsla(234, 66%, 45%, 0.87);
+}
+.right-box{
+    background: white;
+    text-align: center;
+    box-shadow: 5px 6px 5px 3px rgba(87, 85, 85, 0.76);
+}
+.left-box{
+    color: white;
+    padding-top: 7em;
+    padding-left:48m ;
+    box-shadow: 5px 6px 5px 3px rgba(87, 85, 85, 0.76);
+}
+.master-img{
+    margin-left: 15em;
+}
+h1{
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 1em;
+    font-family: 'Girassol', cursive;
+}
+.left-box h5{
+    word-spacing: 2px;
+    letter-spacing: 7px;
+}
+.card{
+    border:none;
+    background: hsla(234, 66%, 45%, 0);
+    margin-top: 7em;
+    padding-left: 2em;
+    font-family: 'Nova Square', cursive;
+}
+.band-img{
+    width: 30%;
+    box-shadow: 5px 6px 5px 3px rgba(87, 85, 85, 0.76);
+    margin-top: 7em;
+    margin-left:11em;
+    display: block;
+}
+.proceed{
+    background: grey;
+    width: 100%;
+    margin: none;
+    height: 16%;
+    padding-top: 1em;
+    margin-top: 9em;
+}
+a{
+    color: white;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    font-family: 'Girassol', cursive;
+}
